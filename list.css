@@ -28,7 +28,7 @@ input[type="text"] {
 }
 
 #addNeed {
-  background-color: #f8f8f8;
+  background-color: orange;
   color: #7fff00;
   border-radius: 18px;
   cursor: pointer;
@@ -36,7 +36,7 @@ input[type="text"] {
 }
 
 #addHave {
-  background-color: #f8f8f8;
+  background-color: green;
   color: #8a2be2;
   border-radius: 18px;
   cursor: pointer;
